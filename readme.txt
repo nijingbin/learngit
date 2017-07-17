@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of file.
 Creating a new branch is quick AND simple.
 Git can marge branch.
+I do something of temporary.
 
